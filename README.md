@@ -1,7 +1,7 @@
-# hi
-##  hi
-#### hi
-###### hi
+# Hi there 👋
+##  Hi there 👋
+#### Hi there 👋
+###### Hi there 👋
 
 <!--
 **kenoi1/kenoi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
