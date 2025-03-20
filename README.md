@@ -2,8 +2,6 @@
 
 i'm a first-year studying mathematics at UWaterloo in Canada.
 
-i like music production, drawing, and making cool things :D
-
 currently, i'm working on contributing to the KDE Community
 
 (specifically Karton, a Virtual Machine Manager)!
