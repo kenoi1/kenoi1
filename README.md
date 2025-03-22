@@ -2,10 +2,6 @@
 
 i'm a first-year studying mathematics at UWaterloo in Canada.
 
-currently, i'm working on contributing to the KDE Community
-
-(specifically Karton, a Virtual Machine Manager)!
-
 #### accounts:
 
 KDE Invent: https://invent.kde.org/kenoi
