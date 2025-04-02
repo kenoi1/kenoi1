@@ -1,5 +1,4 @@
-#### hi, i'm Derek Lin! 
-
+#### hi
 i'm a first-year studying mathematics at UWaterloo in Canada.
 
 #### accounts:
