@@ -1,5 +1,5 @@
 #### hi
-i'm a first-year studying mathematics at UWaterloo in Canada.
+i'm a second-year studying mathematics at UWaterloo in Canada.
 
 #### accounts:
 
