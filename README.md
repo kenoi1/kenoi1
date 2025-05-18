@@ -1,6 +1,8 @@
 
 hi, i'm a second-year studying mathematics at UWaterloo.
 
+new KDE contributor - working on Karton, a virtual machine manager!
+
 #### accounts:
 
 KDE Invent: https://invent.kde.org/kenoi
